@@ -1,0 +1,7 @@
+pyomo>=6.7
+pandas
+numpy
+matplotlib
+jupyterlab
+pytest
+pulp          # <-- only if you want the bundled CBC
